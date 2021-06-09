@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FeatureFlagsKataPart2", "FeatureFlagsKataPart2\FeatureFlagsKataPart2.csproj", "{022C0C4E-2EE5-4B64-9F4F-A5692F0D0F0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{022C0C4E-2EE5-4B64-9F4F-A5692F0D0F0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{022C0C4E-2EE5-4B64-9F4F-A5692F0D0F0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{022C0C4E-2EE5-4B64-9F4F-A5692F0D0F0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{022C0C4E-2EE5-4B64-9F4F-A5692F0D0F0B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60A1F57A-44A8-4A1B-837F-C070F28BE5BE}
+	EndGlobalSection
+EndGlobal
